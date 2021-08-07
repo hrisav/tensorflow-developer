@@ -1,4 +1,4 @@
-DeepLearning.AI TensorFlow Developer (Coursera)
+DeepLearning.AI TensorFlow Developer
 -
 
 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
@@ -28,3 +28,5 @@ DeepLearning.AI TensorFlow Developer (Coursera)
 - W2: DNN for Time Series
 - W3: Recurrent Neural Networks for Time Series
 - W4: Real-world time series data
+
+All credits to Laurence Moroney for the wonderful course.
