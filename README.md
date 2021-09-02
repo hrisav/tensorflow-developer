@@ -29,4 +29,4 @@ DeepLearning.AI TensorFlow Developer
 - W3: Recurrent Neural Networks for Time Series
 - W4: Real-world time series data
 
-All credits to Laurence Moroney for the wonderful course.
+All credits to Laurence Moroney for the wonderful course on Coursera.
