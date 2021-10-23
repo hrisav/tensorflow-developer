@@ -45,11 +45,22 @@ DeepLearning.AI TensorFlow Developer
 	- Irish Poem Lyrics
 	- Shakespeare Sonnets (Ex 12)
 
-4. Sequences, Time Series and Prediction
+**4. Sequences, Time Series and Prediction**
 
 - W1: Sequences and Prediction
+	- Synthetic Sample Data
+	- Sunspots Data
+	- Synthetic Data I
+	- Synthetic Data II (Ex 13)
 - W2: DNN for Time Series
+	- Synthetic Data I
+	- Synthetic Data III (Ex 14)
 - W3: Recurrent Neural Networks for Time Series
+	- Synthetic Data I
+	- Synthetic Data III (Ex 15)
 - W4: Real-world time series data
+	- Synthetic Data I
+	- Sunspots Data
+	- Temperature Data (Ex 16)
 
 All credits to Laurence Moroney for the wonderful course on Coursera.
