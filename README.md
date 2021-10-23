@@ -8,13 +8,22 @@ DeepLearning.AI TensorFlow Developer
 - W3: Enhancing Vision with CNN
 - W4: Using Real-world Images
 	
-2. Convolutional Neural Networks in TensorFlow
+**2. Convolutional Neural Networks in TensorFlow**
 
 - W1: Exploring a Larger Dataset
+	- Dogs vs Cats Small Dataset
+	- Dogs vs Cats Full Dataset (Ex 5)
 - W2: Augmentation: A technique to avoid overfitting
+	- Dogs vs Cats
+	- Horse vs Human
+	- Dogs vs Cats Full Dataset (Ex 6)
 - W3: Transfer Learning
+	- Dogs vs Cats
+	- Horse vs Human (Ex 7)
 - W4: Multiclass Classifications
-	
+	- Rock Paper Scissor
+	- Sign Language MNIST (Ex 8)
+
 3. Natural Language Processing in TensorFlow
 
 - W1: Sentiment in text
