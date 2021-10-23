@@ -24,13 +24,27 @@ DeepLearning.AI TensorFlow Developer
 	- Rock Paper Scissor
 	- Sign Language MNIST (Ex 8)
 
-3. Natural Language Processing in TensorFlow
+**3. Natural Language Processing in TensorFlow**
 
 - W1: Sentiment in text
+	- Sample Data
+	- Sarcasm Data
+	- BBC News Data (Ex 9)
 - W2: Word Embeddings
+	- IMDB Reviews
+	- Sarcasm Data
+	- IMDB Subwords
+	- BBC News Data (Ex 10)
 - W3: Sequence models
+	- IMDB Subwords
+	- IMDB Reviews
+	- Sarcasm Data
+	- Stanford Data (Ex 11)
 - W4: Sequence models and literature
-	
+	- Sample Poem Data
+	- Irish Poem Lyrics
+	- Shakespeare Sonnets (Ex 12)
+
 4. Sequences, Time Series and Prediction
 
 - W1: Sequences and Prediction
