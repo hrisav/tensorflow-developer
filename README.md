@@ -1,12 +1,20 @@
 DeepLearning.AI TensorFlow Developer
 -
 
-1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+**1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 
 - W1: A New Programming Paradigm
+	- Sample Data
+	- Housing Price (Ex 1)
 - W2: Introduction to Computer Vision
+	- Fashion MNIST
+	- MNIST (Ex 2)
 - W3: Enhancing Vision with CNN
+	- Fashion MNIST
+	- MNIST (Ex 3)
 - W4: Using Real-world Images
+	- Horse vs Human
+	- Happy vs Sad (Ex 4)
 	
 **2. Convolutional Neural Networks in TensorFlow**
 
