@@ -58,16 +58,17 @@ DeepLearning.AI TensorFlow Developer
 - W1: Sequences and Prediction
 	- Synthetic Sample Data -> MANUAL
 	- Sunspots Data -> CSV
-	- Synthetic Data I -> MANUAL
+	- Synthetic Data IA -> MANUAL
 	- Synthetic Data II (Ex 13) -> MANUAL
 - W2: DNN for Time Series
-	- Synthetic Data I -> MANUAL
+	- Synthetic Data IA -> MANUAL
+	- Synthetic Data IB -> MANUAL
 	- Synthetic Data III (Ex 14) -> MANUAL
 - W3: Recurrent Neural Networks for Time Series
-	- Synthetic Data I -> MANUAL
+	- Synthetic Data IA -> MANUAL
 	- Synthetic Data III (Ex 15) -> MANUAL
 - W4: Real-world time series data
-	- Synthetic Data I -> MANUAL
+	- Synthetic Data IA -> MANUAL
 	- Sunspots Data -> CSV
 	- Temperature Data (Ex 16) -> CSV
 
