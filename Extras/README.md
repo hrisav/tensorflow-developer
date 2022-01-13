@@ -11,3 +11,4 @@ Extra Datasets
 - 08_Pizza_CNN -> ZIP (T+V)
 - 09_Disaster_NLP -> CSV
 - 10_Testing_TFDS -> TFDS
+- 11_Reuters_NLP -> TFDATA
