@@ -22,11 +22,11 @@ DeepLearning.AI TensorFlow Developer
 	- Dogs vs Cats Small Dataset -> ZIP (T+V)
 	- Dogs vs Cats Full Dataset (Ex 5) -> ZIP (MIX)
 - W2: Augmentation: A technique to avoid overfitting
-	- Dogs vs Cats -> ZIP (T+V)
+	- Dogs vs Cats Small Dataset -> ZIP (T+V)
 	- Horse vs Human -> ZIP (T+V)
 	- Dogs vs Cats Full Dataset (Ex 6) -> ZIP (MIX)
 - W3: Transfer Learning
-	- Dogs vs Cats -> ZIP (T+V)
+	- Dogs vs Cats Small Dataset -> ZIP (T+V)
 	- Horse vs Human (Ex 7) -> ZIP (T+V)
 - W4: Multiclass Classifications
 	- Rock Paper Scissor -> ZIP (T+V)
